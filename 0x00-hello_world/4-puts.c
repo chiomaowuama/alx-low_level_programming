@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description - 'To output the string'  
+ *
  * Return: Always 0 (Success)
  */
 
