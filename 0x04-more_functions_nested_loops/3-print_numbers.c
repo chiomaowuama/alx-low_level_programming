@@ -3,7 +3,7 @@
 /**
  * print_numbers - check the code
  * @c: this i the digit to be used .
- * Return: Always 0.
+ * Return: print numbers from 0 to 9
  */
 void print_numbers(void)
 {
