@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _isupper - the function to be called.
+ * _isupper - the function to be called.
  * @c: the variable to be used.
  * Return: Always 0.
  */
