@@ -2,11 +2,11 @@
 
 /**
  * mul- check the code
- * @a: the first digit to be used.
- * @b: the seconf digit to be used 
- * Return: the m ultiplication of the a and the b.
+ * @x: The first digit to be used.
+ * @y: The seconf digit to be used.
+ * Return: The ultiplication of the a and the b.
  */
-int mul(int a, int b)
+int mul(int x, int y)
 {
-	return (a * b);
+	return (x * y);
 }
