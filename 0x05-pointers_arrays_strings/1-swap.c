@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void swap_int- check the code
+ * swap_int- check the code
  * @a: The first digit.
  * @b: The second digit.
  * @temp: The temporary digit.
