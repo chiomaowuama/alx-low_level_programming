@@ -1,18 +1,14 @@
 #include "main.h"
-#include <stdio.h>
+#include <string.h>
 
 /**
- * main - check the code
+ * _strchr - locate character in string
+ * @s: the string
+ * @c: the character to locate
  *
- * Return: Always 0.
- */
+ * Return: char
+*/
 char *_strchr(char *s, char c)
 {
-	int i;
-	for (i =0; s[i] >= '\0'; i++)
-	{
-		if (s[i] == c)
-			return (s + i);
-	}
-	return(null);
+	return (strchr(s, c));
 }
