@@ -3,7 +3,6 @@
 /**
  * cap_string - capitalize first letter of word in string
  * @str: string to convert
- *
  * Return: char
 */
 char *cap_string(char *str)
