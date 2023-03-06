@@ -1,14 +1,16 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _strpbrk - check the code
+ * @s: the digit
+ * @accept: input
+ * Return: Always 0(Success).
  */
 char *_strpbrk(char *s, char *accept)
 {
 	int i, n;
+
 	for (i = 0; s[i] != '\0'; n++)
 	{
 		for (n = 0; accept[n] != '\0'; n++)
