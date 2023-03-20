@@ -1,1 +1,1 @@
-this repo is newly created
+0x0E. C - Structures, typedef
